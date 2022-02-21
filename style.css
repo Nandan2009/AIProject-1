@@ -1,0 +1,19 @@
+h3{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    background-color: gold;
+}
+
+.h2{
+    width: 30%;
+}
+
+body{
+    background-size: cover;
+}
+
+span{
+    font-size: 15px;
+    color: white;
+}
